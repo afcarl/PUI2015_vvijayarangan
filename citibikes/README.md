@@ -13,6 +13,6 @@ We sat down to do the job together so the distribution of tasks is very even.
 + Writing explanatory tests: Juan Pablo and Sara
 + Code to calculate error and make the plots: Vipassana
 
-## Week 4 HW
+## 4.1 HW:
 
 The first assignment in the week one homework uses data from the months of June, July, August '15
