@@ -1,4 +1,6 @@
-Neil:
+## Neil:
+
+URL: (https://github.com/neilverosh/PUI2015_ndsouza/tree/master/HW8)
 
 ![alt-text](https://github.com/neilverosh/PUI2015_ndsouza/blob/master/HW8/Comparison%20of%20NASDAQ%20and%20Apple.pdf)
 
