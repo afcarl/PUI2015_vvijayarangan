@@ -1,0 +1,59 @@
+your reviews were fine (though there are always many suggestions that could be given on any plot, i find it hard that you could not think of anything to improve ndsouza's plot! see below)
+10/10
+
+NOTES ON YOUR PLOT
+===================
+
+axis labels and especially tick labels are far far faaaaar too small to be readable. same for legend. the title is readable, and all labels should be that size
+
+there is a lot of empty space. remember tufte's rules. a compressed y axis would actually help the intuition allowing to see the entire plot at once instead of bouncing between points with the gaze
+
+the colors are nicely colorblind compliant and the dashed vs solid line also helps separating the data in b&w
+
+
+NOTES ON  THE PLOTS YOU REVIEWED
+===========================================
+
+
+myphan92
+============
+
+the choice of plotting data instead of a histogram is esthetically appealing but largely compromises readability and causes ambiguity
+
+the datapoints hide a pattern in the data: the age increases more significantly for women, peaking around 1980, but it is hard to tell.
+
+the green foreground datapoints hide the background blue datapoints -> confusion and ambiguity. 
+
+color are compliant with most color blind prescriptions
+
+the datapoints without transparency or edges blend at the bottom. it is not a crucial problem since this plot is not meant to be read point by point however.
+
+
+tick labels too small
+
+title to verbose: that level of description belongs to the caption. title should be succinct
+
+
+neilverosh
+============
+
+colors are nicely vivid and color blind compliant
+
+axis labels too small
+
+the plot is largely empty (remember tufte's rules!) a shorter more compact y axis would help comparison
+
+
+
+yunongcao
+============
+
+the color is not explained
+
+units re missing on the x and y labels (seconds?)
+
+the units on the tick labels should be compressed 
+
+the plot is very informative (one of the best seaborn visualizations) but poorly documented 
+
+  
